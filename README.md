@@ -6,4 +6,4 @@ Este projeto foi desenvolvido seguindo as orientações do curso **HTML Web Deve
 Abaixo segue o resultado final do projeto.
 
 
-![Resultado final do projeto](..\instagram-initial-page.png)
+![Resultado final do projeto](images\instagram-initial-page.png)
